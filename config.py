@@ -1,4 +1,4 @@
-BOT_TOKEN = '5146303760:AAHxQ4iKiAoc-_hSA8y3YPsKuBr8bYJH0-Q' #token de tu bot
+BOT_TOKEN = '5175117165:AAGRvtTtSEBdX-g3GkAA2nWXyPVdHigZdVA' #token de tu bot
 API_ID = 14681595 # lo creas en https://my.telegram.org/
 API_HASH = 'a86730aab5c59953c424abb4396d32d5'  # lo creas en https://my.telegram.org/
 OWNER = [5008026177]
